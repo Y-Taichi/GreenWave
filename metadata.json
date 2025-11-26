@@ -1,0 +1,7 @@
+{
+  "name": "GreenWave Tracker",
+  "description": "A traffic signal cycle recorder and Green Wave navigation assistant. Helps drivers synchronize with traffic lights to improve efficiency.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
